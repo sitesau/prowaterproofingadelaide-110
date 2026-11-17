@@ -1,0 +1,22 @@
+{
+  "wheel_id": 915,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-110",
+  "project": "waterproofing-contractors-adelaide-pros-and-cons-c73c70f6f577d3",
+  "parent_t1_ref": "prowaterproofingadelaide-154",
+  "node_role": "feeder",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing contractors adelaide pros and cons",
+  "intended_url": "https://sitesau.github.io/prowaterproofingadelaide-110/",
+  "tier": "T2",
+  "writeback_nonce": "52bebf128504f502",
+  "links": [
+    {
+      "target_url": "http://waterproofing-contractors-adelaide-common-mistakes-7b5967d4a02b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
